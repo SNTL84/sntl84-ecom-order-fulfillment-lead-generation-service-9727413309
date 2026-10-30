@@ -1,4 +1,5 @@
 # 🚚 SERVICE 05 — Order Fulfillment Automation
+For lead generation services, see the contact information in this README.
 
 > **SNTL84 Digital Services · Surat, India**
 > *Orders flow, track & fulfil themselves. Zero manual ops.*
@@ -82,3 +83,7 @@ Contact                       : https://wa.me/919727413309
 ---
 
 *© 2026 SNTL84 · Golden Lotus DesiDevloper · All rights reserved.*
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
